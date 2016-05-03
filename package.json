@@ -1,0 +1,15 @@
+{
+  "name": "headerMail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Brian Holt <btholt@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ua-parser-js": "0.7.10"
+  }
+}
