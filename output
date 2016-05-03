@@ -1,5 +1,0 @@
-browser: Chrome 49.0.2623.112
-os: Mac OS 10.11.3
-version: 1
-device: undefined undefined
-headers: ["Host","Connection","Accept","Accept-Encoding","Accept-Language","User-Agent"]

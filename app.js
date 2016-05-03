@@ -31,6 +31,7 @@ function handleRequest(request, response){
     writeStream.write(util.format(tsv))
 
     console.log(string)
+    response.setHeader('content-type', 'text/html')
     response.end(string)
     version++
 
